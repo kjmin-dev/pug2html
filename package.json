@@ -1,0 +1,16 @@
+{
+  "name": "pug2html_tutorial",
+  "version": "0.0.1",
+  "description": "gulp-pug html generator example",
+  "repository": "github.com/lightj/pug2html_tutorial",
+  "author": "leichtjoon",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "pug": "^2.0.0-rc.3"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
